@@ -1,0 +1,85 @@
+
+.parentcontainer{
+    width: 80%;
+    height: 96vh;
+
+}
+.main-container{
+    width: 70%;
+    margin: 0 auto;
+}
+.leftparent{
+width: 21%;
+float: left;
+background-color: blue;
+color: white;
+padding: 5px;
+}
+.contact{
+   font-size: 40px;padding:0;
+   margin-bottom: -10px;
+}
+
+
+.rightparent{
+    background-color: rgb(175, 166, 166);
+width: 68%;
+float: left;
+margin-left: 1px;
+}
+.contact{
+    font-size: 22px;
+    font-weight: 900;
+
+}
+h1{
+font-size:50px;
+    margin-bottom: -10px;
+    letter-spacing: 6px;
+    word-spacing: 5px;
+
+}
+h2{
+    margin-bottom:-10px
+}
+.summary{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.experience{
+  
+}
+.enjoy-css {
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    cursor: pointer;
+    margin: 180px 220px 220px;
+    padding: 10px;
+    border: 1px solid #018dc4;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    font: italic normal bold 18px/normal Georgia, serif;
+    color: rgba(255,255,255,0.9);
+    text-align: center;
+    -o-text-overflow: clip;
+    text-overflow: clip;
+    letter-spacing: 0.7px;
+    background: -webkit-linear-gradient(-90deg, rgba(119,96,196,1) 0, rgba(119,96,196,1) 48%, rgba(50,45,191,1) 54%, rgba(119,96,196,1) 100%);
+    background: -moz-linear-gradient(180deg, rgba(119,96,196,1) 0, rgba(119,96,196,1) 48%, rgba(50,45,191,1) 54%, rgba(119,96,196,1) 100%);
+    background: linear-gradient(180deg, rgba(119,96,196,1) 0, rgba(119,96,196,1) 48%, rgba(50,45,191,1) 54%, rgba(119,96,196,1) 100%);
+    background-position: 50% 50%;
+    -webkit-background-origin: padding-box;
+    background-origin: padding-box;
+    -webkit-background-clip: border-box;
+    background-clip: border-box;
+    -webkit-background-size: auto auto;
+    background-size: auto auto;
+    -webkit-box-shadow: 2px 2px 2px 0 rgba(124,64,64,0.2) ;
+    box-shadow: 2px 2px 2px 0 rgba(124,64,64,0.2) ;
+    text-shadow: -1px -1px 0 rgba(15,73,168,0.66) ;
+    -webkit-transition: box-shadow 300ms cubic-bezier(0.25, 0.25, 0.75, 0.75) 2ms, box-shadow 2ms cubic-bezier(0.6, -0.28, 0.735, 0.04) 2ms;
+    -moz-transition: box-shadow 300ms cubic-bezier(0.25, 0.25, 0.75, 0.75) 2ms, box-shadow 2ms cubic-bezier(0.6, -0.28, 0.735, 0.04) 2ms;
+    -o-transition: box-shadow 300ms cubic-bezier(0.25, 0.25, 0.75, 0.75) 2ms, box-shadow 2ms cubic-bezier(0.6, -0.28, 0.735, 0.04) 2ms;
+    transition: box-shadow 300ms cubic-bezier(0.25, 0.25, 0.75, 0.75) 2ms, box-shadow 2ms cubic-bezier(0.6, -0.28, 0.735, 0.04) 2ms;
+  }
